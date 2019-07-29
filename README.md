@@ -15,4 +15,4 @@ This projects implements a smart water dispensing system based on RFID technolog
 ## Scope for improvement
 1. Addition of external EEPROM other than Arduino's memory to store users' data.
 2. Extension of IoT for data visualization.
-Please refer to [schematics](/schematics) to improve upon the progress.
+Please refer to [schematics](/schematics) and [docs](/docs) to improve upon the progress.
