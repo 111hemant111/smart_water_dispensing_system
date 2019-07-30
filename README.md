@@ -1,6 +1,7 @@
 # Smart Water Dispensing System
 This projects implements a smart water dispensing system based on RFID technology and IoT. 
-
+## Status
+Completed. Last update Mar 2016. Refer to 'Scope for Improvement' section.
 ## Components used
 1. Arduino Mega 2560
 2. Particle Photon
@@ -18,6 +19,6 @@ This projects implements a smart water dispensing system based on RFID technolog
 Please refer to [schematics](/schematics) and [docs](/docs) to improve upon the progress.
 
 ## License
-Copyright 2019 Hemant Kuruva
+Copyright 2016 Hemant Kuruva
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
