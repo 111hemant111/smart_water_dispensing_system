@@ -1,5 +1,5 @@
 # Smart Water Dispensing System
-This projects implements a smart water dispensing system based on RFID technology and IoT. This project was developed for Kurnool Municipal Corporation (KMC).
+This projects implements a smart water dispensing system based on RFID and IoT technologies. This project was developed for Kurnool Municipal Corporation (KMC).
 
 ## Status
 Completed. Last update Mar 2016. Refer to 'Scope for Improvement' section.
