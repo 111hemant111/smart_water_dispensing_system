@@ -13,7 +13,7 @@ Completed. Last update Mar 2016. Refer to 'Scope for Improvement' section.
 8. 125 KHz RFID cards
 9. Miscellaneous components: Jumper wires, Breadboard, LEDs, Potentiometer, Power adapter.
 
-## Scope for improvement
+## Scope for Improvement
 1. Addition of external EEPROM other than Arduino's memory to store users' data.
 2. Extension of IoT for data visualization.
 Please refer to [schematics](/schematics) and [docs](/docs) to improve upon the progress.
